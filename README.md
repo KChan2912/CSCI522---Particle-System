@@ -8,3 +8,6 @@ The particle emitter is also responsible for calculating the next position of th
 There are also different forces such as turbulence and gravity that can be added. You can also bind the emitter to other SceneNodes. 
 
 *(I bound it to the camera hoping to achieve something similar to snow, but the camera moves a bit too quickly for it to truly work without increasing the limit on particles, which tanks framerate; a better approach would include adding an offset to the already spawned particles whenever the emitter’s position is updated).*
+
+
+https://github.com/user-attachments/assets/6c49f899-566d-4807-a90f-66e2bd5e181b
